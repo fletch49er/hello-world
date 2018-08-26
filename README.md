@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi all!
+
+website designer and application developer, @dbm_web: twitter, musician, but still 10 miles from jupiter.
